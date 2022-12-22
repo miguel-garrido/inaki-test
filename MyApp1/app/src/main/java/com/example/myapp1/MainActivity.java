@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
-            LocalDate date1 = LocalDate.of(2023, Month.AUGUST, 14);
+            LocalDate date1 = LocalDate.of(2024, Month.AUGUST, 14);
             LocalDate today = LocalDate.now();
             Toast.makeText(this, "Hoy:" + today.toString(), Toast.LENGTH_LONG).show();
             Toast.makeText(this, "Fecha meta:" + date1.toString(), Toast.LENGTH_LONG).show();
