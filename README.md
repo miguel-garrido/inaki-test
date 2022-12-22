@@ -19,3 +19,7 @@ Se debe instalar los siguientes programas:
 - Java 8 o superior
 - AndroidStudio
 - Simulador de Android
+
+
+## Snake Escritorio
+ Próximamente...
